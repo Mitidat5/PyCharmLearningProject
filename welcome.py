@@ -9,3 +9,5 @@ for x in fruits:
   print(x)
 
 print("AVERAGE", find_average([5,6, 7, 8]))
+
+print("Третий комит")
